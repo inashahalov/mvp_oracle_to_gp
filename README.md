@@ -1,6 +1,6 @@
 ---
 
-### ✅ Обновлённый `README.md`
+### ✅`README.md`
 
 ```markdown
 # Oracle → Parquet → Greenplum: демо-проект миграции данных
